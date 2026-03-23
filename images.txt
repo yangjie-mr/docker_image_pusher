@@ -1,9 +1,9 @@
 #ubuntu:22.04
 #mysql
 #nginx
-mysql:8.0
-dockurr/windows
-yugabytedb/yugabyte
+mysql:5.7
+#dockurr/windows
+#yugabytedb/yugabyte
 #snipe/snipe-it
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
