@@ -2,6 +2,8 @@
 #mysql
 #nginx
 mysql:5.7
+redis:6.2.21
+nacos-server:v2.5.2
 #dockurr/windows
 #yugabytedb/yugabyte
 #snipe/snipe-it
